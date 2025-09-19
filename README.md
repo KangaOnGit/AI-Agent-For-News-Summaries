@@ -1,2 +1,4 @@
 # AI-Agent-For-News-Summaries
-smolagents
+
+- Clone the whole repository
+- Run Gradio.py
